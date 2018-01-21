@@ -21,3 +21,4 @@ for _, name := range names {
 // .Wait() blocks until all tasks are completed.
 limit.Wait()
 ```
+To use limiter import it in your project or just copy-paste source code
